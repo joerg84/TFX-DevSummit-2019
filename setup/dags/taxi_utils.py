@@ -11,7 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Python source file include taxi pipeline functions and necesasry utils.
+"""Python source file include taxi pipeline functions and necessary utils.
 
 For a TFX pipeline to successfully run, a preprocessing_fn and a
 _build_estimator function needs to be provided.  This file contains both.
